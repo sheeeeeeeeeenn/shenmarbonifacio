@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm Shenmar Bonifacio
 
-🎓 Student Developer | 💻 Passionate about Web Systems  
+🎓 Website Application Developer | 💻 Passionate about Website and Application Systems  
 🚀 Currently building smart systems with **PHP**, **Next.js**, and **MySQL**  
 🌱 Exploring AI integrations, system architecture, and full-stack development  
 
